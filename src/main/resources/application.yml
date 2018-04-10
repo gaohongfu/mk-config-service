@@ -2,4 +2,4 @@ server:
   port: 18002
 spring:
   application:
-    name: config-service1
+    name: config-service
